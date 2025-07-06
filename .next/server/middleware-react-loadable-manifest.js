@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\genealogy\\\\page.tsx -> @/components/FamilyTree\":{\"id\":\"app\\\\genealogy\\\\page.tsx -> @/components/FamilyTree\",\"files\":[\"static/chunks/_app-pages-browser_src_components_FamilyTree_tsx.js\"]}}"

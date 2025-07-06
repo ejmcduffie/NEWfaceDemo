@@ -1,0 +1,9 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/genealogy/page": "app/genealogy/page.js",
+  "/api/family-tree/route": "app/api/family-tree/route.js",
+  "/upload/page": "app/upload/page.js",
+  "/verification/page": "app/verification/page.js",
+  "/api/verification-records/route": "app/api/verification-records/route.js",
+  "/page": "app/page.js"
+}
